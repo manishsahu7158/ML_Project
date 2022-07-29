@@ -93,4 +93,9 @@ docker ps
 To stop docker container
 ```
 docker stop <container_id>
-``` 
+```
+
+Install setup file
+```
+python setup.py install
+```
